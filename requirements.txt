@@ -1,0 +1,5 @@
+flask
+pandas
+newspaper3k
+scikit-learn
+matplotlib
