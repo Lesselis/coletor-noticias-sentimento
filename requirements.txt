@@ -1,5 +1,5 @@
 flask
 pandas
 newspaper3k
-scikit-learn
+textblob
 matplotlib
